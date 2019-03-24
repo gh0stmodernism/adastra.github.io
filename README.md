@@ -1,7 +1,7 @@
 # adastra.github.io
-De Profundis Ad Astra
-'From the depths to the stars'
-Ad Astra is a living document created for those curious about the world of software engineering
+# De Profundis Ad Astra
+# 'From the depths to the stars'
+# Ad Astra is a living document created for those curious about the world of software engineering
 It is meant to help others, especially those from nontraditional backgrounds, understand the fundamentals of cs without setting fire to their laptops and running away screaming into the nearest wooded area 
 When I first started my coding journey, I scoured the web for a list of resources to help tame the confusing fire breathing beast of terrifyingly complex cs concepts. 
 Everytime I saw a word or phrase I didn't know I defined it and kept a dictionary of terms I could refer to, introducing myself to concepts hithereto unknown to me and slowly assembling a giant puzzle of new information 
