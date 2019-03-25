@@ -1,7 +1,7 @@
 
 # Hi hello hi 🖖 
 
- Ad Astra is a living document created for those who are curious about the world of software engineering but don't know where to start 💡
+ Ad Astra is a living document created for those who are curious about the world of software engineering but don't really know where to start 💡
 
 It's meant to help fellow humans from nontraditional backgrounds understand the fundamentals of cs without setting fire to their laptops and running away screaming into the nearest wooded area 🏃🏼‍♀️
 
