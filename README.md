@@ -1,11 +1,19 @@
 
 # Hi hello hi 🖖 
 
- Ad Astra is a living document created for those who are curious about the world of software engineering but don't really know where to start 💡
+ Ad Astra is a living document created for those who are curious about the world of software engineering from the perspective of a newcomer. Hi, hello, hi. My name is Mischa and this is my first githgib project. Testing, 1 2 3...
 
-It's meant to help fellow humans from nontraditional backgrounds understand the fundamentals of cs without setting fire to their laptops and running away screaming into the nearest wooded area 🌲 🏃🏼‍♀️
+Ad astra: to the stars. It's a wiktionary meant to help fellow humans from nontraditional backgrounds understand the fundamentals of cs without setting fire to their laptops and running away screaming into the nearest wooded area 🌲 🏃🏼‍♀️
 
-When I first started my coding journey, I scoured the web for a list of resources to help tame the confusing fire breathing beast of cs concepts 🔥🐉
+Join me? Cause this shit is hard, fam ⚠️
+
+When I first started my coding journey, I scoured the web for a list of resources to help tame the fire breathing beast of cs concepts 🔥🐉
+
+I remember feeling constantly confused, the logic wasn't something my brain was used to at all. I felt like I signed up for a marathon without even being able to run a mile. Little did I know, this was actually a symptom of imposter syndrome. 
+
+At some point I realized this: the human mind is capable of extraordinary things if given the right conditions. Like plants, ideas need certain things to grow: sunlight, water. And starting to code could only progress to progress if conditions were met 🌱
+
+Like laearning any new language, basics must be mastered. Hi hello hi, introduce yourself to the fundamentals of what you seek to master 📖
 
 I spent the summer keeping a dictionary of terms I could refer to, introducing myself to concepts hithereto unknown to me and slowly assembling the giant, fascinating, sometimes terrifying and neverending infinity puzzle of compsci 💻
 
