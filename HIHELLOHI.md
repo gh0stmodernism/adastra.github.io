@@ -1,7 +1,7 @@
 
 # Hi hello hi 🖖 
 
- Ad Astra is a living document created for those who are curious about the world of software engineering from the perspective of a n00b. Hi, hello, hi. My name is Mischa and this is my first githgib project. Testing, 1 2 3...
+ Ad Astra is a living document created for those who are curious about the world of software engineering from the perspective of a n00b. Hi hello hi. My name is Mischa and this is my first githgib project. Testing, 1 2 3...
 
 Ad astra: to the stars. It's a wiktionary meant to help fellow humans from nontraditional backgrounds understand the fundamentals of cs without setting fire to their laptops and running away screaming into the nearest wooded area 🌲 🏃🏼‍♀️
 
