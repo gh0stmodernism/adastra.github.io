@@ -5,7 +5,7 @@
 
 It's meant to help fellow humans from nontraditional backgrounds understand the fundamentals of cs without setting fire to their laptops and running away screaming into the nearest wooded area 🌲 🏃🏼‍♀️
 
-When I first started my coding journey, I scoured the web for a list of resources to help tame the confusing fire breathing beast of cs concepts 🐉
+When I first started my coding journey, I scoured the web for a list of resources to help tame the confusing fire breathing beast of cs concepts 🔥🐉
 
 I spent the summer keeping a dictionary of terms I could refer to, introducing myself to concepts hithereto unknown to me and slowly assembling the giant, fascinating, sometimes terrifying and neverending infinity puzzle of compsci 💻
 
