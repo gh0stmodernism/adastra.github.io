@@ -1,5 +1,5 @@
 
-# Hi hello hi.
+# Hi hello hi 🖖 
 
  Ad Astra is a living document created for those who are curious about the world of software engineering but don't know where to start 💡
 
